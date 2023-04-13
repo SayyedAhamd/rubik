@@ -1,6 +1,8 @@
 # rubik
 
 download and install java
+
+
 download javafx20
 
 
