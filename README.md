@@ -9,5 +9,8 @@ download javafx20
 
 run:
 
+add javafx folder to first line of run.bat
 
-add [--module-path path\to\javafx-sdk-20\lib --add-modules javafx.controls,javafx.fxml,javafx.swing] to your command line
+then:
+
+run.bat
