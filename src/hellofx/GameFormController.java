@@ -309,7 +309,7 @@ public class GameFormController {
 		if (string.contains("-")) {
 			String[] split = string.split("-");
 
-			int layer = Integer.parseInt(split[1]);
+			int layer = Integer.parseInt(split[1])-1;
 			findSideLayer_Rotate(split[0], layer);
 
 		} else {
