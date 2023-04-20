@@ -23,6 +23,15 @@ then:
 
 run.bat
 
+///
+
+
+you may need to change this "xmlns="http://javafx.com/javafx/19"" to your installed java version like "xmlns="http://javafx.com/javafx/8.0.301""
+in all fxml files
+
+
+
+
 
 
 THANKS TO THIS PERSON:
